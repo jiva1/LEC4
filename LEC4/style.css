@@ -1,0 +1,57 @@
+section
+{
+    
+    background-image: url('https://img.freepik.com/free-photo/3d-male-figure-top-cliff-with-his-arms-raised-success_1048-6612.jpg?w=1480&t=st=1694183208~exp=1694183808~hmac=0b246129ffe3a2cf9baaa55c6cca04a60040fed51f298203ab2ff8bfa6ed50f4');
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    text-align: center;
+}
+p{
+    margin: 0 0 0 0;
+}
+.suc
+{
+    font-size: 70px;
+    /* font-weight:900; */
+    font-family: 'Poppins';
+    letter-spacing: 15px;
+    text-shadow: 2px 0 black;
+    font-weight:900;
+    
+    
+
+}
+
+.content{
+    padding-top: 30px;
+}
+
+.content .l1{
+    font-family: 'Poppins';
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing:2px;
+    text-transform: uppercase;
+
+}
+.l2
+{
+    font-family: 'Poppins';
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.btn
+{
+    margin: 20px 0 0 0;
+    
+}
+button
+{
+    
+    padding: 6px 17px 6px 17px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px grey;
+}
